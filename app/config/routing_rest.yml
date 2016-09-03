@@ -1,0 +1,4 @@
+users : 
+    type: rest
+    resource:     Keuranta\CoreBundle\Controller\User\UserController
+    prefix:  users
